@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Gupta </h1>
 <h3 align="center">A Student from Mumbai</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Elysian01" alt="azim2429" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Elysian01" alt="Elysian01" /> </p>
 
 - 🔭 I’m currently working on **Few Flutter projects**
 
