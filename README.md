@@ -2,15 +2,15 @@
 <h3 align="center">A Student from Mumbai</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Elysian01" alt="Elysian01" /> </p>
 
-- 🔭 I’m currently working on **Few Flutter projects**
+- 🔭 I’m currently working on **Few Rasa projects**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
 - 📝 I regulary write articles on [https://medium.com/@abhig0209](https://medium.com/@abhig0209)
 
-- 💬 Ask me about **Flutter, Dart and Open source**
+- 💬 Ask me about **Rasa, Machine Learning and Web Dev**
 
-- 🌱 I’m currently learning **UI/UX and MERN**
+- 🌱 I’m currently learning **Data Analytics and React**
 
 - 📫 Contact me at **abhig0209@gmail.com**
 
@@ -21,8 +21,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elysian01&layout=compact)
 <p align="center"> 
 
-<a href="https://www.linkedin.com/in/abhishek-gupta-a745221a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedIn" height="20" width="20" /></a>
-
+  <a href="https://www.linkedin.com/in/abhishek-gupta-a745221a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedIn" height="20" width="20" /></a>
   <a href="https://www.behance.net/abhishekgupta23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="Elysian01" height="20" width="20" /></a>
    <a href="https://dribbble.com/Elysian01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="Elysian01" height="20" width="20" /></a>
    <a href="https://medium.com/@abhig0209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Elysian01" height="20" width="20" /></a>
