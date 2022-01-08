@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 📝 I regulary write articles on [https://medium.com/@abhig0209](https://medium.com/@abhig0209)
-
 - 💬 Ask me about **Rasa, Machine Learning and Web Dev**
 
 - 🌱 I’m currently learning **Data Analytics and React**
