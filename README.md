@@ -3,11 +3,11 @@
 <h3 align="center">A Student from Mumbai</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Elysian01" alt="Elysian01" /> </p>
 
-- 🔭 I’m currently working on **Few Rasa projects**
+- 🔭 I’m currently working on **NLP**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 💬 Ask me about **Rasa, Machine Learning and Web Dev**
+- 💬 Ask me about **Rasa, Machine Learning, NLP and Web Dev**
 
 - 🌱 I’m currently learning **Data Analytics and React**
 
